@@ -1,0 +1,6 @@
+imutils==0.5.4
+numpy==1.19.1
+Pillow==9.0.0
+streamlit==0.69.2
+opencv-python-headless
+
